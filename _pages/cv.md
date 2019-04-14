@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+• B.S. in Chemistry. University of Utah, 2014
+• Ph.D in Chemistry. Brigham Young University, 2019 (expected)
 
-Work experience
+Summary
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+•	5 year academic research experience in quantum mechanical calculations and developing predictive tools
+•	5 year experience collaborating with Chevron Phillips Chemical Company directing molecular design hypotheses that has resulted in 3 patents filed, 5 patents in preparation for filing, and 3 publications
+•	Working knowledge in statistical analysis methods such as machine learning and dimension reduction
+•	Excellent communication skills capable of conveying complex technical concepts to non-experts
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+•	Computational: Atomistic Simulation, Density Functional Theory, Quantum Mechanics, Inorganic/Organometallic Catalyst Design, Structure-based Design, Conformational Analysis, Gaussian
+•	Programming: Python, Linux, Slurm, Bash, Matlab, High Performance Computing
+•	Statistical Analysis: Machine Learning, Principal Component Analysis, Quantitative Activity Structure Relationships, Descriptor Identification
+•	Lab: Glove Box Synthesis, NMR, IR
 
 Publications
 ======
